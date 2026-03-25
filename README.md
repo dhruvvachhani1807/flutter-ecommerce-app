@@ -1,2 +1,14 @@
-# flutter-ecommerce-app
-A cross-platform shopping application built using Flutter that allows users to browse products, add items to cart, and simulate checkout.
+# Flutter E-Commerce App
+
+A shopping mobile application built using Flutter.
+
+## Features
+- Product listing
+- Cart system
+- API integration
+- Responsive UI
+
+## Tech Stack
+- Flutter
+- Dart
+- REST API
